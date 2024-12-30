@@ -11,5 +11,6 @@ int main() {
 	}
 	int a = 111;
 	int b = 123;
+	int c = 222;
 	return 0;
 } 
